@@ -1,1 +1,1 @@
-# test_class
+# mini_project
